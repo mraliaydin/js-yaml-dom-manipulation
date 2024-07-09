@@ -1,0 +1,4 @@
+datasource:
+  urls:
+    /products: [C.yaml]
+    /index.html: [A.yaml, B.yaml]

@@ -1,0 +1,9 @@
+actions:
+  - type: remove
+    selector: ".remove-tr"
+  - type: alter
+    oldValue: "Machine Learning"
+    newValue: "Artificial Intelligence"
+
+priority: 1
+

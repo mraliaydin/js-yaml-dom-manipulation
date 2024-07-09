@@ -1,0 +1,7 @@
+actions:
+  - type: replace
+    selector: "#new-header"
+    newElement: "<header id='new-header-2'>New Header 2</header>"
+
+priority: 2
+
