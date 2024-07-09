@@ -38,4 +38,5 @@ This project demonstrates how to fetch and process YAML configuration files (`co
 ## Notes
 
 - This project does not use Node.js; it operates purely on client-side JavaScript.
+- In Documents.docx file you can find documentation of the project.
 
